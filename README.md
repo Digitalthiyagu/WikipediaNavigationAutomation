@@ -37,3 +37,7 @@ It automates the Wikipedia search workflow and validates navigation behavior whi
 
 ```bash
 pip install -r requirements.txt
+
+## Note
+
+This project is created for learning and portfolio purposes to demonstrate automation framework design using Selenium and Pytest.
